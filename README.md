@@ -16,23 +16,35 @@ Write a program which takes 2 inputs from the user : weight(kg) and height(meter
 BMI = weight / (square of height)
 
 
-2- write a program which takes the name of the user as input and replace all the occurence of character 'a' in the name to 'b' and print it.
+Question 2- 
 
-3- write a program which takes 2 inputs from user as principle amount (int) and rate of annual interest (float) and print the expected total amount  after  2 years.
+Write a program which takes the name of the user as input and replace all the occurence of character 'a' in the name to 'b' and print it.
+
+Question 3-
+
+Write a program which takes 2 inputs from user as principle amount (int) and rate of annual interest (float) and print the expected total amount  after  2 years.
 
 example : principle : 100 , interest percent 10  then amount after 2 years will be : 100*1.1*1.1 = 121
 
-4- write a program which takes city name from user input. irrespective of in which case user enters the city name, print the city name in camel case meaning first letter should be capital and rest in small.
+Question 4- 
+
+Write a program which takes city name from user input. irrespective of in which case user enters the city name, print the city name in camel case meaning first letter should be capital and rest in small.
 
 example : input : MYSORE ,  print - > Mysore 
 
-5- write a program which takes the name of the user as input and print the index of character 'a' in the string. if 'a' is not there then return -1.
+Question 5- 
 
-6-  Display the number of letters in the below string
+Write a program which takes the name of the user as input and print the index of character 'a' in the string. if 'a' is not there then return -1.
+
+Question 6-
+
+Display the number of letters in the below string
 my_word = "antidisestablishmentarianism"
 
-7- take 3 inputs from user : first name , last name and age . Display the information in below format
-exmaple 
+Question 7- 
+
+Take 3 inputs from user : first name , last name and age . Display the information in below format
+Example 
 first name : MOhit
 last name : sharma 
 age 32
@@ -42,7 +54,9 @@ Display : my name is Mohit Sharma and I am 32 years old.
 note that first letter of first name and last name both should be in capital letters and rest in small. 
 
 
-8-take 3 inputs from user : first name , last name and company name. create the email alias for the user and display it.  Email alias is first 2 letters of first name , last 3 letters of last name and @company.com
+Question 8- 
+
+Take 3 inputs from user : first name , last name and company name. create the email alias for the user and display it.  Email alias is first 2 letters of first name , last 3 letters of last name and @company.com
 example 
 first name : MOhit
 last name : sharma 
